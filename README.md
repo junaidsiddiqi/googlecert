@@ -5,7 +5,7 @@
 *Overview:*
 Completed the Google Cybersecurity Certificate, gaining hands-on experience in cybersecurity fundamentals, risk management, and security operations. The program covered key industry concepts and practical skills needed for entry-level cybersecurity roles.
 
-*Key Tasks**
+*Key Tasks:*
 Network Security: Learned how to analyze network traffic, identify vulnerabilities, and apply security measures.
 Incident Response: Explored methods for detecting, responding to, and mitigating security incidents.
 Linux & Security Tools: Worked with Linux, Bash scripting, and cybersecurity tools like Wireshark and Nmap.
